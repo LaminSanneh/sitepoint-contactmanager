@@ -1,5 +1,5 @@
 # Contactmanager
-A simpe ember application for managing user contacts.
+A simple ember application for managing user contacts.
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
